@@ -16,7 +16,7 @@
 ![image](https://github.com/0iqx/CyberNights5/assets/165626321/85b44adc-afc2-4099-9040-44557507ab75)
 #### I opned the `RansomYard.exe` using [`IlSpy`](https://github.com/icsharpcode/ILSpy)
 ![image](https://github.com/0iqx/CyberNights5/assets/165626321/a16de72f-2b39-459e-abbf-d2c431a5a39f)
-#### Check `RandomYard.cs` and `RandomYardPatched.cs`
+#### Check [`RandomYard.cs`](https://github.com/0iqx/CyberNights5/blob/main/Rans0mYard/RansomYard.cs) and [`RandomYardPatched.cs`](https://github.com/0iqx/CyberNights5/blob/main/Rans0mYard/RansomYard_patched.cs)
 #### After decrypting all files, we encountered a curious password-protected file named `shop.zip`.
 ![image](https://github.com/0iqx/CyberNights5/assets/165626321/bd8fac4e-6932-4dca-9604-383203c46ca0)
 #### Using [`john`](https://github.com/openwall/john).
