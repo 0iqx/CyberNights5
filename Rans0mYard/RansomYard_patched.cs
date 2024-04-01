@@ -23,7 +23,7 @@ internal sealed class RansomYardStart
 		// string[] subKeyNames = currentUser.GetSubKeyNames();
 		// currentUser.OpenSubKey(subKeyNames[3]);
 
-        // I hardcodded the registries keys and values
+        // I hardcodded the Registry keys and values
 		string[] array = new string[3] { "Path", "TEMP", "TMP" };
 		string[] array2 = new string[3] { "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps;", "C:\\Users\\Admin\\AppData\\Local\\Temp", "C:\\Users\\Admin\\AppData\\Local\\Temp" };
 		
